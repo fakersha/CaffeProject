@@ -1,0 +1,143 @@
+C:\Users\gagni_j1hmy01\source\repos\CafeProject\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\gagni_j1hmy01\source\repos\CafeProject\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\gagni_j1hmy01\source\repos\CafeProject\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\gagni_j1hmy01\source\repos\CafeProject\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\gagni_j1hmy01\source\repos\CafeProject\CafeProject\obj\Debug\CafeProject.UserLogin.resources
+C:\Users\gagni_j1hmy01\source\repos\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.cache
+C:\Users\gagni_j1hmy01\source\repos\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.CoreCompileInputs.cache
+C:\Users\gagni_j1hmy01\source\repos\CafeProject\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\gagni_j1hmy01\source\repos\CafeProject\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\gagni_j1hmy01\source\repos\CafeProject\CafeProject\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\gagni_j1hmy01\source\repos\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.CopyComplete
+C:\Users\gagni_j1hmy01\source\repos\CafeProject\CafeProject\obj\Debug\CafeProject.Form1.resources
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.UserLogin.resources
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.cache
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.csproj.CoreCompileInputs.cache
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.csproj.CopyComplete
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.WaiterWindow.resources
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.AccountantWindow.resources
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.ManagerNewProducts.resources
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.ManagerWindow.resources
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.Main.resources
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.KitchenWindow.resources
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.Register.resources
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.RemoveOrCreate.resources
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.UsersRemover.resources
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.csproj.ResolveComReference.cache
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gagni_j1hmy01\Desktop\New folder\CafeProject\obj\Debug\CafeProject.csprojAssemblyReference.cache
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.csproj.ResolveComReference.cache
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.AccountantWindow.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.ManagerNewProducts.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.ManagerWindow.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.Main.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.KitchenWindow.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.Register.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.RemoveOrCreate.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.UserLogin.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.UsersRemover.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.WaiterWindow.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.cache
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.csproj.CoreCompileInputs.cache
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.csproj.CopyComplete
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\gagni_j1hmy01\Desktop\jk\New folder\CafeProject\obj\Debug\CafeProject.CMessageBox.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.ResolveComReference.cache
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.CMessageBox.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.AccountantWindow.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.ManagerNewProducts.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.ManagerWindow.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.Main.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.KitchenWindow.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.Register.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.RemoveOrCreate.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.UserLogin.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.UsersRemover.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.WaiterWindow.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.cache
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.CoreCompileInputs.cache
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.CopyComplete
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.AddImportedProducts.resources
+C:\Users\gagni_j1hmy01\Desktop\jk\CafeProject\CafeProject\obj\Debug\CafeProject.csprojAssemblyReference.cache
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.csprojAssemblyReference.cache
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.ResolveComReference.cache
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.LoadingWindow.resources
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.AddImportedProducts.resources
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.CMessageBox.resources
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.AccountantWindow.resources
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.ManagerNewProducts.resources
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.ManagerWindow.resources
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.Main.resources
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.KitchenWindow.resources
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.Register.resources
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.RemoveOrCreate.resources
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.UserLogin.resources
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.UsersRemover.resources
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.WaiterWindow.resources
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.cache
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.CoreCompileInputs.cache
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.CopyComplete
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\gagni_j1hmy01\Desktop\FullProject\CafeProject\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.csprojAssemblyReference.cache
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.ResolveComReference.cache
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.LoadingWindow.resources
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.AddImportedProducts.resources
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.CMessageBox.resources
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.AccountantWindow.resources
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.ManagerNewProducts.resources
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.ManagerWindow.resources
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.Main.resources
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.KitchenWindow.resources
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.Register.resources
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.RemoveOrCreate.resources
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.UserLogin.resources
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.UsersRemover.resources
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.WaiterWindow.resources
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.cache
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.CoreCompileInputs.cache
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.CopyComplete
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\mr.zi\Desktop\alo\caffeProject\caffestep7\new\CafeProject\CafeProject\obj\Debug\CafeProject.pdb
